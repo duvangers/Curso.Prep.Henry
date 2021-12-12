@@ -1,0 +1,2 @@
+
+* Arrays: En español coleccion, como su nombre lo indica nos permite guardar multiples datos, creando una coleccion de datos los cuales puedes ser de cualquier tipo por ejemplo podemos guardar datos (numericos, boleanos, una coleccion o array dentro de la misma) y disponer de estos datos cuando queramos, es como tener una lista de compras con los articulos a comprar.
