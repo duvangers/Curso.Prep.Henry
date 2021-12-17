@@ -1,0 +1,1 @@
+* Funciones Callback: Esta herramienta nos permite invocar funciones desde el argumento de otra función y ejecutarla dicha función si tener que declararla completamente, para invocarla solo debemos usar la palabra clave cb, y esta servirá para relacionar la función que queremos retornar.
